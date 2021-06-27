@@ -10,7 +10,7 @@ Created 06/26/2021
 4. Restart the server or reload the plugins. The mod should now run.
 
 ## Demo
-![Gif demo of mod](https://github.com/BoreMore/mc-pixel-death-animation/demo.gif)
+https://user-images.githubusercontent.com/41763220/123532267-c669c580-d6d9-11eb-8b81-b0b2110eb46f.mp4
 
 ## Inspiration
 Inspired by [this Call of Duty 16Bit Tracer Pack](https://www.youtube.com/watch?v=uiUelKc77D8) and by [Dream's](https://www.youtube.com/user/DreamTraps) coding skills and success.
