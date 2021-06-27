@@ -1,0 +1,5 @@
+name: MCPixelDeathAnimation
+version: 1.0
+author: BoreMore
+main: com.pixeldeath.mc.Main
+description: Animates mob and player deaths as disintegrating pixels
